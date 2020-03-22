@@ -36,7 +36,7 @@ void BlackJack::calculate_value_function(){
         }
     }
 
-    string filename = "data/r07_black_jack.txt";
+    string filename = "data.txt";
     ofstream outFile;
     outFile.open(filename.c_str());
     if (outFile.fail()){
