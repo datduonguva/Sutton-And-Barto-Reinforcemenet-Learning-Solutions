@@ -1,4 +1,4 @@
-# Sutton-And-Barto-Reinforcemenet-Learning-Solutions
+# Sutton-And-Barto-Reinforcement-Learning-Solutions
 This repo is my solutions for Sutton and Barto's Reinforcement Learning Book.
 
 The book (pdf and codes) can be download directly here from the authors http://www.incompleteideas.net/book/the-book.html
